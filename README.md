@@ -1,7 +1,7 @@
 # Projeto Baralho de Cartas
 Projeto de criação de um baralho de cartas que retira uma carta aleatória ao clicar no botão! ♣ ♥ ♠ ♦
 
-[<img src="./gif-baralho-de-cartas.gif" alt="Gif do projeto Baralho de Cartas">](https://augusto-brunelli.github.io/accordion-js/)
+[<img src="./gif-baralho-de-cartas.gif" alt="Gif do projeto Baralho de Cartas">](https://augusto-brunelli.github.io/baralho-de-cartas/)
 
 ## Linguagens utilizadas:
 - HTML5
